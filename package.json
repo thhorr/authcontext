@@ -1,5 +1,5 @@
 {
-  "name": "auth-context",
+  "name": "authcontext",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
